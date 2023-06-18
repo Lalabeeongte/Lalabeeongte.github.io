@@ -1,7 +1,7 @@
 # Lalabeeongte.github.io
 
-Don't let me go
-นาย ธนาดล เกิดนิคม
+<h1>Don't let me go</h1>
+<h2>นาย ธนาดล เกิดนิคม</h2>
 Thanadol Koednikhom
 งานอดิเรก เล่นดนตรี เล่นเกม
 ทักษะคอมพิวเตอร์
